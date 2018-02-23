@@ -41,3 +41,6 @@ public class SplashActivity extends AppCompatActivity {
         handler.postDelayed(runnable, 100);
     }
 }
+
+
+// this is home activity
